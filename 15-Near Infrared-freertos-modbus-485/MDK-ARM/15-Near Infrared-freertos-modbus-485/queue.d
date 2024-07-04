@@ -1,0 +1,15 @@
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+15-near infrared-freertos-modbus-485\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+15-near infrared-freertos-modbus-485\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+15-near infrared-freertos-modbus-485\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+15-near infrared-freertos-modbus-485\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+15-near infrared-freertos-modbus-485\queue.o: ../Core/Inc/FreeRTOSConfig.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+15-near infrared-freertos-modbus-485\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
